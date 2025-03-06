@@ -22,10 +22,14 @@ The plugin will support jumping to any point in media.
 Media will be streamed via HTTP.
 Actually, one of BitTorrent clients (rqbit) already [does this](https://github.com/ikatson/rqbit#streaming-support),
 but others
-([Vincenzo](https://github.com/gabrieldemian/vincenzo),
+([synapse](https://github.com/Luminarys/synapse),
+[Vincenzo](https://github.com/gabrieldemian/vincenzo),
+[naryand/bittorrent](https://github.com/naryand/bittorrent),
+[RustyBit](https://github.com/h33333333/rustybit),
 [Rubit](https://github.com/spectre-xenon/rubit),
-[synapse](https://github.com/Luminarys/synapse),
-[naryand/bittorrent](https://github.com/naryand/bittorrent)) don't.
+[Rusty Torrenter](https://github.com/ArloFilley/rusty_torrent#rusty-torrenter),
+[xerus](https://gitlab.com/zenoxygen/xerus))
+don't.
 
 # Indented bracketed expressions
 
